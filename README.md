@@ -19,3 +19,8 @@ They help modularize SQL logic, reduce code repetition, and improve performance.
 **Example Usage:**
 ```sql
 CALL GetPatientBills(3);
+
+---
+## Author
+## Name: Laki Gupta
+## GitHub: https://github.com/LAKI-GUPTA-888
