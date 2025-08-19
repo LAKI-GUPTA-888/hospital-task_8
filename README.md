@@ -16,14 +16,16 @@ They help modularize SQL logic, reduce code repetition, and improve performance.
 - Does not necessarily return a value but can output via OUT variables.
 - Can contain loops, IF/ELSE, and complex business logic.
 
-**Example Usage:**
-```sql
-CALL GetPatientBills(3);
-
 ---
 
 ## Author
 - **Name:** Laki Gupta  
 - **GitHub:** https://github.com/LAKI-GUPTA-888
+
+
+**Example Usage:**
+```sql
+CALL GetPatientBills(3);
+
 
 
